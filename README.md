@@ -2,7 +2,7 @@
 
 Responsive website built with pure Javascript and CSS. Used BEM naming conventions
 
-[View the page :eyes:](https://crucials.github.io/altair-landing-page)
+[View the page :eyes:](https://crucials.github.io/altair-page)
 
 ## Screenshots
 
